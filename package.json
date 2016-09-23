@@ -1,0 +1,42 @@
+{
+	"name": "theme-mild",
+	"displayName": "Mild version of the default VS Code themes",
+	"description": "The default light and dark themes, with background adjusted for a milder contrast",
+	"categories": [
+		"Themes"
+	],
+	"version": "0.1.0",
+	"publisher": "radu-b",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Mild Dark+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_plus.json"
+			},
+			{
+				"label": "Mild Light+",
+				"uiTheme": "vs",
+				"path": "./themes/light_plus.json"
+			},
+			{
+				"label": "Mild Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_vs.json"
+			},
+			{
+				"label": "Mild Light",
+				"uiTheme": "vs",
+				"path": "./themes/light_vs.json"
+			}
+		]
+	},
+	"icon": "assets/icon.svg",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/radu-b/theme-mild.git"
+	}
+}
