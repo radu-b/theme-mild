@@ -1,6 +1,6 @@
 {
 	"name": "theme-mild",
-	"displayName": "Mild version of the default VS Code themes",
+	"displayName": "Mild Default Themes",
 	"description": "The default light and dark themes, with background adjusted for a milder contrast",
 	"categories": [
 		"Themes"

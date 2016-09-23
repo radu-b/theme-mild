@@ -36,7 +36,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
@@ -191,19 +191,19 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
@@ -215,7 +215,7 @@
 		{
 			"scope": ["string.xml", "string.jade", "string.yaml", "string.html"],
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
@@ -245,13 +245,13 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
@@ -263,7 +263,7 @@
 		{
 			"scope": "keyword.operator.new",
 			"settings": {
-				"foreground": "#0000ff"
+				"foreground": "#0000ee"
 			}
 		},
 		{
