@@ -83,7 +83,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#97D5F4"
 			}
 		},
 		{
@@ -208,7 +208,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#97D5F4"
 			}
 		},
 		{
@@ -262,7 +262,7 @@
 		{
 			"scope": "support.type.property-name",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#97D5F4"
 			}
 		},
 		{
@@ -310,7 +310,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#97D5F4"
 			}
 		},
 		{

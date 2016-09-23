@@ -1,7 +1,7 @@
 {
 	"name": "theme-mild",
-	"displayName": "Mild Default Themes",
-	"description": "The default light and dark themes, with background adjusted for a milder contrast",
+	"displayName": "Mild Default Theme",
+	"description": "The default light and dark themes, with small adjustments for a milder contrast",
 	"categories": [
 		"Themes"
 	],

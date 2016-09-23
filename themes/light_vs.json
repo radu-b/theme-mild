@@ -4,7 +4,8 @@
 	  {
 			"settings": {
 				"background": "#f8f8f8",
-				"foreground": "#444444"
+				"foreground": "#444444",
+				"lineHighlight": "#f2f2f2"
 			}
 		},
 		{
@@ -36,7 +37,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
@@ -167,7 +168,7 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
@@ -191,19 +192,19 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
@@ -215,7 +216,7 @@
 		{
 			"scope": ["string.xml", "string.jade", "string.yaml", "string.html"],
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
@@ -245,13 +246,13 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
@@ -263,7 +264,7 @@
 		{
 			"scope": "keyword.operator.new",
 			"settings": {
-				"foreground": "#0000ee"
+				"foreground": "#0000D8"
 			}
 		},
 		{
