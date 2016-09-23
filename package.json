@@ -1,42 +1,42 @@
 {
-	"name": "theme-mild",
-	"displayName": "Mild Default Theme",
-	"description": "The default light and dark themes, with small adjustments for a milder contrast",
-	"categories": [
-		"Themes"
-	],
-	"version": "0.1.0",
-	"publisher": "radub",
-	"engines": {
-		"vscode": "*"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Mild Dark+",
-				"uiTheme": "vs-dark",
-				"path": "./themes/dark_plus.json"
-			},
-			{
-				"label": "Mild Light+",
-				"uiTheme": "vs",
-				"path": "./themes/light_plus.json"
-			},
-			{
-				"label": "Mild Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/dark_vs.json"
-			},
-			{
-				"label": "Mild Light",
-				"uiTheme": "vs",
-				"path": "./themes/light_vs.json"
-			}
-		]
-	},
-	"icon": "assets/icon.svg",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/radu-b/theme-mild.git"
-	}
+    "name": "theme-mild",
+    "displayName": "Mild Default Theme",
+    "description": "The default light and dark themes, with small adjustments for a milder contrast",
+    "categories": [
+        "Themes"
+    ],
+    "version": "0.1.1",
+    "publisher": "radub",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mild Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark_plus.json"
+            },
+            {
+                "label": "Mild Light+",
+                "uiTheme": "vs",
+                "path": "./themes/light_plus.json"
+            },
+            {
+                "label": "Mild Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark_vs.json"
+            },
+            {
+                "label": "Mild Light",
+                "uiTheme": "vs",
+                "path": "./themes/light_vs.json"
+            }
+        ]
+    },
+    "icon": "assets/icon.svg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/radu-b/theme-mild.git"
+    }
 }
